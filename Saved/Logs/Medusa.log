@@ -1093,7 +1093,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-16.13.43:421][ 34]SourceControl:  create mode 100644 Content/ThirdPersonBP/Some_BP.uasset
 [2020.05.18-16.13.43:428][ 34]SourceControl: Commited [FB-Character 74b9ba6] Some_BP Created.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 [2020.05.18-16.26.10:309][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
 [2020.05.18-16.26.10:416][456]LogSlate: Window 'Medusa - Unreal Editor' being destroyed
 [2020.05.18-16.26.10:868][457]Cmd: QUIT_EDITOR
@@ -1186,6 +1189,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-16.26.21:865][457]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
 [2020.05.18-16.26.21:865][457]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
 [2020.05.18-16.26.21:865][457]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+<<<<<<< Updated upstream
 [2020.05.18-16.26.22:355][457]LogModuleManager: Shutting down and abandoning module TraceServices (655)
 [2020.05.18-16.26.22:500][457]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
 [2020.05.18-16.26.22:516][457]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
@@ -1518,4 +1522,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-16.26.27:489][457]LogD3D11RHI: CleanupD3DDevice
 [2020.05.18-16.26.27:567][457]LogExit: Exiting.
 [2020.05.18-16.26.27:628][457]Log file closed, 05/18/20 21:56:27
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
