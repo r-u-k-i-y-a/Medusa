@@ -1094,6 +1094,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-16.13.43:428][ 34]SourceControl: Commited [FB-Character 74b9ba6] Some_BP Created.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 =======
 >>>>>>> Stashed changes
@@ -1522,6 +1523,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-16.26.27:489][457]LogD3D11RHI: CleanupD3DDevice
 [2020.05.18-16.26.27:567][457]LogExit: Exiting.
 [2020.05.18-16.26.27:628][457]Log file closed, 05/18/20 21:56:27
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
