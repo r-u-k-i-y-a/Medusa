@@ -750,3 +750,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.20-16.11.08:234][942]LogSlate: Window 'ThirdPersonCharacter' being destroyed
 [2020.05.20-16.11.08:235][942]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2020.05.20-16.11.08:235][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-16.12.55:729][938]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.20-16.13.08:147][918]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.20-16.13.08:154][918]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.20-16.13.08:154][918]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-16.13.08:155][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
