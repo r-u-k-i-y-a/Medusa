@@ -723,3 +723,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.20-15.52.18:375][360]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
 [2020.05.20-15.52.18:375][360]SourceControl:  rewrite Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (90%)
 [2020.05.20-15.52.18:382][360]SourceControl: Commited [FB-Character 205daaf] edited character bluprint.
+[2020.05.20-16.00.37:578][ 76]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.20-16.02.57:722][916]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.20-16.02.57:729][916]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.20-16.02.57:747][916]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-16.02.57:747][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-16.03.05:513][781]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.05.20-16.03.05:513][781]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.20-16.03.15:838][942]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.20-16.03.21:666][629]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.05.20-16.03.26:645][157]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.20-16.04.56:038][504]LogRenderer: Reallocating scene render targets to support 1220x572 Format 10 NumSamples 1 (Frame:11038).
+[2020.05.20-16.04.56:076][505]LogRenderer: Reallocating scene render targets to support 1252x572 Format 10 NumSamples 1 (Frame:11040).
+[2020.05.20-16.04.56:112][506]LogRenderer: Reallocating scene render targets to support 1300x572 Format 10 NumSamples 1 (Frame:11042).
+[2020.05.20-16.04.56:153][507]LogRenderer: Reallocating scene render targets to support 1324x572 Format 10 NumSamples 1 (Frame:11044).
+[2020.05.20-16.04.56:652][527]LogRenderer: Reallocating scene render targets to support 1356x572 Format 10 NumSamples 1 (Frame:11066).
+[2020.05.20-16.04.56:688][528]LogRenderer: Reallocating scene render targets to support 1364x572 Format 10 NumSamples 1 (Frame:11068).
+[2020.05.20-16.05.29:050][102]LogSlate: Window 'Camera Shake Previewer' being destroyed
+[2020.05.20-16.05.29:053][102]LogSlate: Window 'Camera Shake Previewer' being destroyed
+[2020.05.20-16.08.58:229][627]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.20-16.08.58:234][627]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.20-16.08.58:245][627]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-16.08.58:245][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-16.10.56:577][943]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.20-16.11.08:228][942]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.20-16.11.08:234][942]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.20-16.11.08:235][942]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-16.11.08:235][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
