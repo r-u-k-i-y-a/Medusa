@@ -682,3 +682,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.20-16.07.30:703][130]LogSavePackage: Moving 'F:/New Game/Medusa/Saved/ThirdPersonCharacterB91606AF4E7D99C11B289AAC3DE42B3B.tmp' to 'F:/New Game/Medusa/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2020.05.20-16.07.30:784][130]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2020.05.20-16.07.30:784][130]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.20-16.08.54:171][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="F:/New Game/Medusa/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.05.20-16.08.54:194][ 25]LogSavePackage: Moving 'F:/New Game/Medusa/Saved/ThirdPersonCharacter13425C42408260AA584C6AAA47E5C415.tmp' to 'F:/New Game/Medusa/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.20-16.08.54:206][ 25]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.20-16.08.54:206][ 25]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
